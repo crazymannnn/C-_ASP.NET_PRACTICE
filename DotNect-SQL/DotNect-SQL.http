@@ -1,0 +1,6 @@
+@DotNect_SQL_HostAddress = http://localhost:5043
+
+GET {{DotNect_SQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
