@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code_C#\\DotNect-SQL\\DotNect-SQL.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\DotNect-SQL\\DotNect-SQL.csproj",
       "projectName": "DotNect-SQL",
-      "projectPath": "C:\\code_C#\\DotNect-SQL\\DotNect-SQL.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\DotNect-SQL\\DotNect-SQL.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\code_C#\\DotNect-SQL\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\DotNect-SQL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

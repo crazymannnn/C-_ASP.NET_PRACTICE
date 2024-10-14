@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VideoGameCQRS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+427c94bb0ee61a69ff2e7eb052b544dc7143f0f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("VideoGameCQRS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VideoGameCQRS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,6 +9,7 @@ namespace DotNect_SQL.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //duytest
     public class AuthorController : ControllerBase
     {
         private readonly DataContext _context;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N70yrSGU1wu0rUWhlWYMOHhO+JgN9NqdCU6BqOhNw2Ru6L7jJIingGuo9lPCy0vS9v2Gi7Gj737deIrUKHwRpQ==",
+  "dgSpecHash": "+neNLIPFkKGtq2AeZ2ZvdmO5c0mQPOzcbjOu8FK7asm/uGWQ6+xlvSyjungUpCmTgOWPY0RRxagW7h0P93cYhA==",
   "success": true,
-  "projectFilePath": "C:\\code_C#\\DotNect-SQL\\DotNect-SQL.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\DotNect-SQL\\DotNect-SQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
