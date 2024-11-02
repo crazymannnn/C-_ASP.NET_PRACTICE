@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ImZolaWCCjbFLoMQw6gEBid0mw4fDvd16r+V6aI8fLTy9HdXtYV6AgzBQs7PfyekOgOaliJeOmQrxIRO/aCEwA==",
+  "dgSpecHash": "tWvtMCFruczRWhkaFDd+NmYCcAQUthAP0HabdQdv10GL3HWTSBih+UQKPTAIgN4Cctmge0VZ6wjv5RhJ+4Pz0g==",
   "success": true,
-  "projectFilePath": "C:\\code_C#\\VideoGameCQRS\\VideoGameCQRS.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\VideoGameCQRS\\VideoGameCQRS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

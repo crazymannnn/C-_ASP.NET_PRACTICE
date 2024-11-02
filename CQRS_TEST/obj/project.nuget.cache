@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "toXljnGeCnbBnbmntTTqOeHZTLVH7RkkdwjKjShXMoTl1D2EJfp+t8M4bIfe3kBQI3C9g2heqLvVkMMEr6AP9Q==",
+  "dgSpecHash": "gsJipgaX2C4Xxt3MeOIzxKXgX5CWghYTSKG5ns98vU0ov3wV7o9aPMnLgEfAZzhz8U6BntSlgyHXULAaQPpFoA==",
   "success": true,
-  "projectFilePath": "C:\\code_C#\\CQRS_TEST\\CQRS_TEST.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\CQRS_TEST\\CQRS_TEST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code_C#\\CQRS_TEST\\CQRS_TEST.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\CQRS_TEST\\CQRS_TEST.csproj",
       "projectName": "CQRS_TEST",
-      "projectPath": "C:\\code_C#\\CQRS_TEST\\CQRS_TEST.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\CQRS_TEST\\CQRS_TEST.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\code_C#\\CQRS_TEST\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\CQRS_TEST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

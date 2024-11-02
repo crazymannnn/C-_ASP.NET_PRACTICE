@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code_C#\\VideoGameCQRS\\VideoGameCQRS.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\VideoGameCQRS\\VideoGameCQRS.csproj": {}
   },
   "projects": {
-    "C:\\code_C#\\VideoGameCQRS\\VideoGameCQRS.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\VideoGameCQRS\\VideoGameCQRS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code_C#\\VideoGameCQRS\\VideoGameCQRS.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\VideoGameCQRS\\VideoGameCQRS.csproj",
         "projectName": "VideoGameCQRS",
-        "projectPath": "C:\\code_C#\\VideoGameCQRS\\VideoGameCQRS.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\VideoGameCQRS\\VideoGameCQRS.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\code_C#\\VideoGameCQRS\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\C#_DotNet_Practice\\C_ASP.NET_PRACTICE\\VideoGameCQRS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
