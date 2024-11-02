@@ -11,6 +11,7 @@ namespace JWT_Practice.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //aa test
     public class AuthController : ControllerBase
     {
         public static User user = new User();
