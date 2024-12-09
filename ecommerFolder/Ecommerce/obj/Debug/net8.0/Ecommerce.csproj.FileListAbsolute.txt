@@ -480,3 +480,9 @@ C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Eco
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\Ecommerce.pdb
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\Ecommerce.genruntimeconfig.cache
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\ref\Ecommerce.dll
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\.azurefunctions\function.deps.json
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.Functions.Worker.Extensions.dll
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.Functions.Worker.Extensions.pdb
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.WebJobs.Extensions.FunctionMetadataLoader.dll
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\.azurefunctions\Microsoft.WindowsAzure.Storage.dll
