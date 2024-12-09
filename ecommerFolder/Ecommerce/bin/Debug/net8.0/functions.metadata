@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Function1",
+    "scriptFile": "Ecommerce.Funtions.dll",
+    "entryPoint": "Ecommerce.Funtions.Function1.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "myTimer",
+        "direction": "In",
+        "type": "timerTrigger",
+        "schedule": "0 */5 * * * *",
+        "properties": {}
+      }
+    ]
+  }
+]
