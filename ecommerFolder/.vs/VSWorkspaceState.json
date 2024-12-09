@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ecommerce",
-    "\\Ecommerce.Models",
+    "\\Ecommerce.Repositories",
+    "\\Ecommerce.Services",
+    "\\Ecommerce.Services\\Service",
+    "\\Ecommerce.Webmodels",
     "\\Ecommerce\\Controllers"
   ],
-  "SelectedNode": "\\Ecommerce\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\Ecommerce.Webmodels\\OrderRequest.cs",
   "PreviewInSolutionExplorer": false
 }
