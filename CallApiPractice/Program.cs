@@ -15,6 +15,10 @@ namespace HttpClientSample
         static void ShowProduct(Product product)
         {
             Console.WriteLine($"Id: {product.id} Name: {product.name} Price: {product.price}");
+            foreach (var b in product.badges) {
+                Console.WriteLine($"Code: {b.code} Text: {b.text}");
+            }
+
         }
 
         static async Task<Product> GetProductAsync(string path)

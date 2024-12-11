@@ -12,5 +12,11 @@ namespace CallApiPractice
         public int id { get; set; }
         public string name { get; set; }
         public decimal price { get; set; }
+        public List<Badge> badges { get; set; } = new List<Badge> { };
+    }
+
+    public class Badge { 
+        public string code { get; set; }
+        public string text { get; set; }
     }
 }
