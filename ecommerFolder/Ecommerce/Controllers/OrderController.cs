@@ -13,6 +13,7 @@ using System.Security.Claims;
 
 namespace Ecommerce.Controllers
 {
+    [Route("[Controller]")]
     [Authorize(Roles = "Guest")]
     public class OrderController : ControllerBase
     {

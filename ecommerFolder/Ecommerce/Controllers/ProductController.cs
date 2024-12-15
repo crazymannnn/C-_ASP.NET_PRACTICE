@@ -21,7 +21,8 @@ namespace Ecommerce.Controllers
             _productService = productService;
         }
 
-        [HttpGet("GetAllProduct"), Authorize(Roles = "Admin,Guest")]
+        //[HttpGet("GetAllProduct"), Authorize(Roles = "Admin,Guest")]
+        [HttpGet("GetAllProduct")]
         public IActionResult Get()
         {
             var products = _productService.GetAll();

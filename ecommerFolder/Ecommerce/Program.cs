@@ -8,6 +8,8 @@ using Ecommerce.Repositories.IRepositories;
 using Ecommerce.Repositories.Repositories;
 using Ecommerce.Services.IService;
 using Ecommerce.Services.Service;
+using Polly;
+using Polly.Extensions.Http;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -55,6 +57,17 @@ builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IEmailService, EmailService>();
 
+//Caching new
+builder.Services.AddStackExchangeRedisCache(options =>
+{
+    options.Configuration = "localhost";
+    options.ConfigurationOptions = new StackExchange.Redis.ConfigurationOptions()
+    {
+        AbortOnConnectFail = true,
+        EndPoints = { options.Configuration }
+    };
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -73,3 +86,15 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+static IAsyncPolicy<HttpResponseMessage> GetRetryPolicy()
+{
+    return HttpPolicyExtensions
+        .HandleTransientHttpError()
+        .OrResult(r => r.StatusCode == System.Net.HttpStatusCode.NotFound)
+        .WaitAndRetryAsync(3, retryAttempt => TimeSpan.FromSeconds(Math.Pow(2, retryAttempt)),
+            onRetry: (response, retryDelay, retryAttempt, context) =>
+            {
+                Console.WriteLine($"Retry {retryAttempt} after {retryDelay.TotalSeconds} seconds due to: {response.Exception?.Message ?? response.Result.StatusCode.ToString()}");
+            });
+}

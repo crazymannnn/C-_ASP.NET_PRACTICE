@@ -480,3 +480,9 @@ C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Eco
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\Ecommerce.pdb
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\Ecommerce.genruntimeconfig.cache
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\ref\Ecommerce.dll
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\Polly.dll
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\Polly.Extensions.Http.dll
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\StackExchange.Redis.dll

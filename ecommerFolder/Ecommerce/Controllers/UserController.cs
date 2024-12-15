@@ -1,5 +1,6 @@
 ﻿using Ecommerce.Services.IService;
 using Ecommerce.Webmodels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Ecommerce.Controllers
@@ -13,7 +14,7 @@ namespace Ecommerce.Controllers
             _userService = userService;
         }
 
-        [HttpGet("GetAllUser")]
+        [HttpGet("GetAllUser"), Authorize(Roles = "Admin")]
         public IActionResult Get()
         {
             var users = _userService.GetAll();    
